@@ -2,13 +2,9 @@
 This repository displays functions for ecological datasets simulations in R. 
 
 ## Table of contents
-* [General info](#general-info)
 * [Main functions](#Main-functions)
 * [Outreach](#Outreach)
 * [Licence](#Licence)
-
-## General info
-This project is simple Lorem ipsum dolor generator.
 	
 ## Main functions
 Here are the main function created for simulation and what they can do:
