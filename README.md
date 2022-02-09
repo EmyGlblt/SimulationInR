@@ -4,7 +4,7 @@ This repository displays functions for ecological datasets simulations in R.
 ## Table of contents
 * [Main functions](#Main-functions)
 * [Outreach](#Outreach)
-* [Licence](#Licence)
+* [License](#License)
 	
 ## Main functions
 Here are the main function created for simulation and what they can do:
@@ -25,5 +25,5 @@ Here are the main function created for simulation and what they can do:
 This work is part of my PhD thesis here and has ben presented to the online R in Ecology conference [here](https://github.com/EmyGlblt/SimulationInR/blob/main/Simulation_EcologyinR_EmyGuilbault.pdf)
 
  
-## Licence
-The licence for this work is available [here](https://github.com/EmyGlblt/SimulationInR/blob/main/License.txt)
+## License
+The license for this work is available [here](https://github.com/EmyGlblt/SimulationInR/blob/main/License.txt)
